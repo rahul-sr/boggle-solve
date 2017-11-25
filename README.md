@@ -1,7 +1,7 @@
 Boggle Board
 =============
 
-Check the demo on https://rahul-sr.github.io/boggle-solve/
+Check the demo on https://rahul-sr.github.io/boggle-solve/?rows=5&cols=5&text=somecharactersherefortesting
 
 A 3x3 boggle board that looks like this:
 
