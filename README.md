@@ -1,6 +1,8 @@
 Boggle Board
 =============
 
+Check the demo on https://rahul-sr.github.io/boggle-solve/
+
 After having played a couple of games of Boggle, I found myself frustrated by my
 inability to conjure up words as quickly as my competitors. Thus I decided to
 build something that would solve the puzzle for me. The unfortunate side effect
@@ -17,3 +19,8 @@ Dictionary Size
 ---------------
 Note that the dictionary included in the demo contains words up to length 7.
 This is so the demo loads quickly.
+
+
+Setup
+-----
+To check the application on local machine, just open the index.html in browser
