@@ -32,7 +32,7 @@ $('#num-rows, #num-cols').click(boardSizeChanged)
                          .change(boardSizeChanged);
 
 
-$.get('data/length-up-to-7.txt')
+$.get('data/dictionary.txt')
 .success(function (data) {
   var words = data.split('\n');
   for (var i = words.length - 1; i >= 0; i--) {
