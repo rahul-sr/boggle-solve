@@ -3,10 +3,15 @@ Boggle Board
 
 Check the demo on https://rahul-sr.github.io/boggle-solve/
 
-After having played a couple of games of Boggle, I found myself frustrated by my
-inability to conjure up words as quickly as my competitors. Thus I decided to
-build something that would solve the puzzle for me. The unfortunate side effect
-is that now my friends won't play Boggle with me.
+A 3x3 boggle board that looks like this:
+
+y o x
+r b a
+v e d
+
+Has exactly the following words on it:
+bred, yore, byre, abed, oread, bore, orby, robed, broad, byroad, robe, bored, derby, bade, aero, read, orbed, verb, aery, bead, bread, very, road
+Note that it doesn't have “robbed” or “robber” because that would require reusing some letters to form the word. And it doesn’t have “board” or “dove” because that would require using letters which aren’t neighbours. Also note that there only 4 or more letter words because that is the constraint on word length used here.
 
 Instructions
 ------------
